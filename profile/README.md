@@ -9,5 +9,8 @@
   <img alt="Finswer Bank" src="https://github.com/user-attachments/assets/82eb1ac1-674e-4982-b88a-4767bf040399" />
 </a>
 
+## Staks
   
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/finswer/finswer-bank)
+
+<img width="1684" height="948" alt="image" src="https://github.com/user-attachments/assets/c599578e-b153-4846-b71f-aa0790d82ad4" />
